@@ -1,4 +1,4 @@
-| [DESCARGAR](https://github.com/Whoisadri2/bot-discordjs) | 
+| [DESCARGAR](https://github.com/Whoisadri2/Herramientas-Discord) | 
 | :---: | 
 
 ---
